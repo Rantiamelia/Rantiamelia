@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+
+#container{
+    display: flex;
+    flex: 1;
+}
+
+
+body{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0;
+}
+
+nav{
+    background: pink;
+    width: 45vh;
+    height: 100vh;
+    font-size: 40px;
+}
+
+header,footer{
+    background: goldenrod;
+    height: 20vh;
+    width: 168vh;
+    font-size: 40px;
+}
+
+.container1{
+    display: flex;
+}
+
+aside{
+    background: blue;
+    width: 43vh;
+    font-size: 40px;
+}
+
+article{
+    height: 60vh;
+    width: 125vh;
+    font-sze: 50px;
+}
+
+header,footer,article,aside,nav{
+    padding: 1em;
+}

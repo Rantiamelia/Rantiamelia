@@ -1,0 +1,49 @@
+body {
+    background: pink;
+}
+
+.box1 {
+    background: lightskyblue;
+    height: 100px;
+    font-size: 20px;
+}
+
+.box2 {
+    background: lightseagreen;
+    height: 400px;
+    width: 250px;
+    font-size: 20px;
+}
+
+.box3 {
+    background-color: palevioletred;
+    height: 400px;
+    margin-left: 280px;
+    margin-top: -419px;
+    font-size: 18px;
+}
+
+.box4 {
+    background-color: lightskyblue;
+    height: 100px;
+    font-size: 20px;
+}
+
+.article {
+    appearance: flexible;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 200px;
+    margin: 50px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 100px;
+    margin: 70px;
+}
+
+h1 {
+    align-items: center;
+}
